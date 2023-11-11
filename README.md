@@ -1,4 +1,4 @@
-# Simple-Olx-Scrapper
+# Simple-Olx-Scraper
  Just a simple olx web scraper using beatifulSoup lib with some graphs created for practice. In general just a shitty code
 
 ### Prerequisites
